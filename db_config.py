@@ -1,7 +1,7 @@
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "Swapnil@1706",
+    "password": "xyz",
     "database": "emp"
 }
 
